@@ -1,4 +1,4 @@
-# 🔥 Ember & Ash — Restaurant Website
+# Bhai G & Cafe — Restaurant Website
 
 > A fully responsive, production-ready restaurant website with a dynamic menu, smart cart system, and a complete multi-method payment gateway — built entirely with vanilla HTML, CSS, and JavaScript.
 
