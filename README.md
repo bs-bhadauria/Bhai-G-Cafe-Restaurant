@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-![Ember & Ash Hero](https://images.unsplash.com/photo-1544025162-d76594e3d3e0?w=1200&q=80)
+![Bhai G & Cafe Hero](https://images.unsplash.com/photo-1544025162-d76594e3d3e0?w=1200&q=80)
 
 ---
 
@@ -52,7 +52,7 @@
 ## 🗂️ Project Structure
 
 ```
-ember-and-ash/
+Bhai G & Cafe/
 │
 ├── index.html          # Single-file application (HTML + CSS + JS)
 └── README.md           # Project documentation
@@ -72,7 +72,7 @@ Just open `index.html` in any modern browser. No build step, no server required.
 git clone https://github.com/your-username/ember-and-ash.git
 
 # Navigate into the project
-cd ember-and-ash
+cd Bhai-G-Cafe-Restaurant
 
 # Open in browser
 open index.html        # macOS
@@ -105,11 +105,11 @@ If you have VS Code, use the [Live Server extension](https://marketplace.visuals
 Edit the name, tagline, and address directly in `index.html`:
 ```html
 <!-- Hero -->
-<h1>Ember<br><em>&amp; Ash</em></h1>
+<h1>Bhai G <br><em>&amp; Cafe</em></h1>
 <p class="hero-sub">Fire-kissed cuisine · Artisanal ingredients · Soulful ambiance</p>
 
 <!-- Footer -->
-<div>42 Firebrick Lane, Downtown · Mon–Sun 12pm–11pm</div>
+<div>Sudpura Kashganj, Uttar Pradesh · Mon–Sun 9am–10pm</div>
 ```
 
 ### Change Color Theme
@@ -224,4 +224,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Made with 🔥 for Ember & Ash</p>
+
